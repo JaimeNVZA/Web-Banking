@@ -1,0 +1,19 @@
+	PRIMER EXÁMEN FINAL
+Todo lo que vimos en las clases de los martes va a salir, toda la teoría
+Tenemos que poder simular el proceso de deposito en una caja, se debe poder ingresar en alguna parte del simulador, ingresar el monto y depositar y ya está
+Si usamos base de datos debemos generar todo el scrip y descargar el zip en la máquina y el profe debe usar fácilmente, sino nos va a restar puntos
+Queda a nuestra liberta si ponemos la consulta de no se que
+Al terminar una transacción debemos generar un ticket, puede quedar escrito en un archivo o pdf, puede quedar en pantalla también perdo debe existir
+Cada coordinador de grupo debe presentar el archivo: un proyecto trabajdo en netbeans que contenga todos los archivos .java, simple, si al profe no le es fácil usar entonces no se evalúa
+La documentación técnica debe ser bien hecha, como mínimo seguir las etiquetas básicas, se debe generar el .jar para estas documentaciones y todo debe estar en el .zip del proyecto
+Nombrado con el nombre del grupo, escribir exactamente como está en los indicadores (Simulador_Grupo_X.zip)
+El paquete debe llamarse 1er_Final como lo muestra en los indicadores
+En la defensa debemos mostrarle al profe la implementación con una notebook o bien tener en un pendrive, pero mejor tener en nuestra notebook, lo vamos a hacer en 5 minutos como máximo, debemos ser concretos y precisos
+Dentro del simulador debemos poder llegar a la ventana que se muestra en los indicadores, y al pulsar el boton documentación debe abrir el archivo .jar que está almacenado en nuestro proyecto
+Todo lo que está escrito debajo de dicha ventana (en los indicadores) es lo que ya conocemos, está ahí a modo de refrescar la memoria.
+Sí o sí debe tener hilos pero no en procesos principales
+Hilos: se va a usar para al momento de hacer clic en ver documentación en la ventana dicha antes al mismo tiempo tiene que poder escribir en esa ventana el nombre de los integrantes
+Hasta el 4/11 podemos preguntar para el SEP y para el PEF hasta el 25/11 (en ambos casos 2 días antes de los exámenes)
+
+
+

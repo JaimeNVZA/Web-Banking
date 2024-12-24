@@ -1,0 +1,3 @@
+Al abrir el programa puede elegir alguna cuenta poniendo un número del 1 al 10.
+La clave de dicha cuenta es siempre 123456.
+Para realizar un pago de servicio debe utilizar la clave 654321.
